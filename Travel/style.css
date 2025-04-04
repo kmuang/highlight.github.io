@@ -1,0 +1,18 @@
+body { 
+    background-color: none;
+}
+.card-group { 
+    margin: 10px;
+    padding: 10px;
+}
+.card { 
+padding: 20px; 
+}
+a:hover { 
+    color: blue;
+}
+.social-btn { 
+    text-align: center;
+    padding: 3em;
+
+}
